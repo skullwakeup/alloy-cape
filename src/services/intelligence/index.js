@@ -1,0 +1,1 @@
+export { generateIntelligence } from "./intelligenceEngine";
